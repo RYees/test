@@ -9,9 +9,6 @@ function App() {
         <p>
           React
         </p>
-        <p>
-          Python
-        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
