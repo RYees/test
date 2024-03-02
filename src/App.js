@@ -22,6 +22,8 @@ function App() {
       </header>
 
       <button>conflict</button>
+      
+      <nav>creating merge conflit</nav>
     </div>
   );
 }
