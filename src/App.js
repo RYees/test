@@ -20,6 +20,9 @@ function App() {
           Learn React
         </a>
       </header>
+
+      
+      <nav>creating merge conflit</nav>
     </div>
   );
 }
