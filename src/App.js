@@ -20,6 +20,8 @@ function App() {
           Learn React
         </a>
       </header>
+
+      <button>conflict</button>
     </div>
   );
 }
