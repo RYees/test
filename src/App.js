@@ -9,7 +9,7 @@ function App() {
         <p>
           React
         </p>
-        <h2>headding 2</h2>
+        <h2>10academy</h2>
         <a
           className="App-link"
           href="https://reactjs.org"
