@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+p {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+  color: aqua;
+}
